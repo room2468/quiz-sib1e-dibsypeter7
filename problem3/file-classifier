@@ -52,7 +52,7 @@ while IFS= read -r filename; do
 	;;
 esac
 done
-abrakadabra
+
 echo "Scripts (.sh): $scripts"
 echo "Logs (.log): $logs"
 echo "Configs (.conf): $configs"
